@@ -8,6 +8,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 
+//topic:将消息路由到binding key与routing key模式匹配的队列中。
+
 @Configuration
 public class TopicRabbitConfig {
 
