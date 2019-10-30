@@ -1,0 +1,3 @@
+# Bootstrap components º”‘ÿ‘¥Õ∑ spi
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+com.yan.demo.config.MyPropertySourceLocator

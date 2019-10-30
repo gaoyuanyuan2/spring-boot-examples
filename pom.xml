@@ -12,6 +12,9 @@
     <modules>
         <module>spring-boot-mongodb/spring-boot-mongodb</module>
         <module>spring-boot-mongodb/spring-boot-multi-mongodb</module>
+        <module>spring-boot-demo</module>
+        <module>spring-boot-memcache-spymemcached</module>
+        <module>spring-boot-mybatis/spring-boot-mybatis-annotation-mulidatasource</module>
     </modules>
 
     <build>
