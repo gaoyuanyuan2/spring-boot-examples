@@ -23,6 +23,7 @@
         <module>spring-boot-dubbo/consumer-user</module>
         <module>spring-boot-dubbo/provider-ticket</module>
         <module>spring-boot-security</module>
+        <module>spring-boot-redis</module>
     </modules>
 
     <build>
