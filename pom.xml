@@ -18,6 +18,7 @@
         <module>spring-boot-rabbitmq</module>
         <module>spring-boot-kafka</module>
         <module>spring-boot-task</module>
+        <module>spring-boot-elasticsearch</module>
     </modules>
 
     <build>
