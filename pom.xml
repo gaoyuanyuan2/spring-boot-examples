@@ -22,6 +22,7 @@
         <module>spring-boot-actuator</module>
         <module>spring-boot-dubbo/consumer-user</module>
         <module>spring-boot-dubbo/provider-ticket</module>
+        <module>spring-boot-security</module>
     </modules>
 
     <build>
