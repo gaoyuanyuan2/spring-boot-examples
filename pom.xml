@@ -16,6 +16,8 @@
         <module>spring-boot-memcache-spymemcached</module>
         <module>spring-boot-mybatis/spring-boot-mybatis-annotation-mulidatasource</module>
         <module>spring-boot-rabbitmq</module>
+        <module>spring-boot-kafka</module>
+        <module>spring-boot-task</module>
     </modules>
 
     <build>
